@@ -1,0 +1,13 @@
+{
+    "name": "hillel/documentor",
+    "require": {
+        "php": "^7.4",
+        "twig/twig": "^3.0",
+        "symfony/console": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Documentor\\": "src"
+        }
+    }
+}
